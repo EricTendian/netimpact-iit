@@ -1,4 +1,4 @@
-baseurl: "/~netimpact" # The subpath of your site. Use "" if you're hosting a blog at the root level.
+baseurl: "/~netimpact/new-site" # The subpath of your site. Use "" if you're hosting a blog at the root level.
 url: "http://www.iit.edu" # the base hostname & protocol for your site
 title: "Net Impact IIT"
 
