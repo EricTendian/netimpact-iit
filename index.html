@@ -1,7 +1,11 @@
 ---
+title: Welcome to Net Impact!
+layout: page
 ---
 
-{% for post in site.posts limit:site.data.theme.num_home_posts %}
+<h3>Illinois Institute of Technology Net Impact Chapter:<br><em>Leaders</em> who are <em>changing</em> the <em>world</em> through <em>business.</em></h3>
+
+{% for post in site.posts limit:1 %}
 <div class="post-header-home">
   <h1 class="post-title-home">
     <a href="{{ post.url | prepend:site.baseurl }}">{{ post.title }}</a>
@@ -13,3 +17,20 @@
   <p class="text-right"><a href="{{ post.url | prepend:site.baseurl }}">Continue Reading &rarr;</a></p>
 </div>
 {% endfor %}
+
+<div id="about">
+  <h2>Our Mission</h2>
+  <p>
+    The mission of IIT Net Impact is to improve the world by growing and strengthening a network of leaders who use the power of business to make a positive net social, environmental, and economic impact.
+  </p>
+
+  <h2>Our Goal</h2>
+  <p>
+    The goal of IIT Net Impact is to facilitate professional development, cross-industry knowledge-sharing, networking and educational opportunities among members from diverse academic and professional backgrounds on topics related to positive social, environmental and economic impact.
+  </p>
+
+  <h2>Our Vision</h2>
+  <p>
+    Net Impact will bring together students seeking to network and take action to foster a new generation of leaders who use the power of business to create a better world.
+  </p>
+</div>
