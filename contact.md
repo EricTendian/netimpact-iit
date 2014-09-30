@@ -10,22 +10,22 @@ To be a part of and know more about Stuart School of Business Net Impact Chapter
 
 ## Our Executive Board
 
-* **Jenna Giandoni**, *Co-President* <jenna.giandoni@gmail.com>
+* **Jenna Giandoni**, *Co-President* (jgiandon@hawk.iit.edu)
 
   <!-- Dual MBA and M.S. in Environmental Management & Sustainability -->
 
-* **Karun Jacob**, *Co-President* <kabraham@hawk.iit.edu>
+* **Karun Jacob**, *Co-President* (kabraham@hawk.iit.edu)
 
   <!-- M.S. in Environmental Management & Sustainability -->
 
-* **Rushabh Vedia**, *Treasurer* <rvedia@hawk.iit.edu>
+* **Rushabh Vedia**, *Treasurer* (rvedia@hawk.iit.edu)
 
   <!-- MBA (Finance) -->
 
-* **Eric Tendian**, *Webmaster* <etendian@hawk.iit.edu>
+* **Eric Tendian**, *Webmaster* (etendian@hawk.iit.edu)
 
   <!-- B.A. in Information Technology and Management -->
 
-* **Janhavi Pradhan**, *PR Cordinator* <jpradhan@hawk.iit.edu>
+* **Janhavi Pradhan**, *PR Cordinator* (jpradhan@hawk.iit.edu)
 
   <!-- M.S. in Environmental Management & Sustainability -->
