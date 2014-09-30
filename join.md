@@ -1,6 +1,6 @@
 ---
 title: Join
-permalink: "join/index.html"
+permalink: join/
 layout: page
 ---
 

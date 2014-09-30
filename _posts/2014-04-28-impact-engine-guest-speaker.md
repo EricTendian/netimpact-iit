@@ -1,5 +1,6 @@
 ---
 title: "Impact Engine Guest Speaker"
+permalink: events/impact-engine-guest-speaker
 published: true
 ---
 

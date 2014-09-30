@@ -27,3 +27,9 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+
+ftp_host: 'www.iit.edu'
+ftp_dir: '/htdocs'
+ftp_passive: false
+ftp_username: 'netimpact'
+

@@ -1,5 +1,6 @@
 ---
 title: '"Food Patriots" Film Screening and Discussion'
+permalink: events/foot-patriots-screening
 published: true
 ---
 

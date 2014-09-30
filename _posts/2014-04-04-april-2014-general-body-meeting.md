@@ -1,5 +1,6 @@
 ---
 title: "April 2014 General Body Meeting"
+permalink: events/april-2014-general-body-meeting
 published: true
 ---
 

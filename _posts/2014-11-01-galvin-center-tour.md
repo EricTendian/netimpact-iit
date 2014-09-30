@@ -1,5 +1,6 @@
 ---
 title: Galvin Center for Electricity Innovation Tour
+permalink: events/galvin-center-tour
 published: false
 ---
 

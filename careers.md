@@ -1,6 +1,6 @@
 ---
 title: Careers
-permalink: "careers/index.html"
+permalink: careers/
 layout: page
 ---
 

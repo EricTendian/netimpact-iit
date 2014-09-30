@@ -1,5 +1,6 @@
 ---
 title: "Eco-kayaking Tour"
+permalink: events/2014-eco-kayaking-tour
 published: true
 ---
 

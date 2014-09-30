@@ -1,5 +1,6 @@
 ---
 title: Net Impact General Body Meeting with UFarm IIT
+permalink: events/october-2014-general-body-meeting-with-ufarm
 published: true
 featured: true
 ---

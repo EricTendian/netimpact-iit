@@ -1,5 +1,6 @@
 ---
 title: "Technori Pitch Chicago, April 2014 - Social Impact"
+permalink: events/technori-pitch-april-2014-social-impact
 published: true
 ---
 

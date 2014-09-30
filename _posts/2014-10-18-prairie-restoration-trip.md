@@ -1,5 +1,6 @@
 ---
 title: Prairie Restoration Trip
+permalink: events/prairie-restoration-trip-2014
 published: false
 ---
 
