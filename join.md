@@ -4,14 +4,12 @@ permalink: "join/index.html"
 layout: page
 ---
 
-# Update copy on page!
-
 ## Key Stats:
 
-*   **120+ chapters**
-*   **15 professional city-based chapters**
+*   **330+ chapters**
+*   **60+ professional city-based chapters**
 
-  With over 135 student and professional chapters on 6 continents in 80 cities and 110 graduate schools, a central office in San Francisco, and partnerships with leading for and nonprofit organizations, Net Impact enables members to use business for social good in their graduate education, careers, and communities.
+  With over 330 student and professional chapters on 6 continents in 105 cities and 137 graduate schools, a central office in San Francisco, and partnerships with leading for and nonprofit organizations, Net Impact enables members to use business for social good in their graduate education, careers, and communities.
 
 ## Who are Net Impact members?
 
@@ -30,14 +28,14 @@ layout: page
 
 ## What does it cost to be a member?
 
-*   Lifetime membership is $250.
-*   Full professional membership is $40 a year.
-*   Full student membership is $25 a year.
+*   Lifetime membership is $450.
+*   Full professional membership is $65 a year.
+*   Full graduate student membership is $35 a year.
 *   Limited membership is free.
 
 ## What is the difference between Net Impact in my city and Net Impact central?
 
-  Net Impact central is the central office of the Net Impact network based in San Francisco. Through its 10 person staff, Net Impact central expands the Net Impact network, supports the 120+ chapters, and manages programs and services.
+  Net Impact central is the central office of the Net Impact network based in San Francisco. Through its 20 person staff, Net Impact central expands the Net Impact network, supports the 330+ chapters, and manages programs and services.
 
 ## Why does Net Impact charge annual dues?
 
@@ -45,7 +43,7 @@ Grants and fundraising cover only a fraction of the costs to support our network
 
 ## Can I receive a trial membership?
 
-Net Impact  does not offer a trial membership.
+Net Impact does not offer a trial membership.
 
 ## The benefits of paid membership include:
 
@@ -57,4 +55,4 @@ Net Impact  does not offer a trial membership.
 *   A subscription to CSR Weekly, a weekly publication related to corporate social responsibility.
 *   Discounts to chapter organized events.
 
-# Join our IIT Net Impact monthly Newsletter Mailing List to find out about upcoming events, email us at [netimpact@iit.edu](mailto:netimpact@iit.edu)
+# Join our IIT Net Impact monthly Newsletter Mailing List to find out about upcoming events! Sign up on our Contact page.

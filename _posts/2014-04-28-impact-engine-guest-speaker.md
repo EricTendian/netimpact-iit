@@ -1,6 +1,8 @@
 ---
 title: "Impact Engine Guest Speaker"
+published: true
 ---
+
 **Chuck Templeton**<br />
 <em>OpenTable Founder and Managing Director of <a href="http://theimpactengine.com/" target="_blank">Impact Engine</a></em>
 

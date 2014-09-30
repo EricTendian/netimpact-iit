@@ -1,5 +1,6 @@
 ---
 title: "Technori Pitch Chicago, April 2014 - Social Impact"
+published: true
 ---
 
 *Chicago's monthly tech showcase, where geeks, veeps, and everyone in between meets.*

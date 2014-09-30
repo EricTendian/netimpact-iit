@@ -5,7 +5,12 @@ layout: page
 
 <h3>Illinois Institute of Technology Net Impact Chapter:<br><em>Leaders</em> who are <em>changing</em> the <em>world</em> through <em>business.</em></h3>
 
-{% for post in site.posts limit:1 %}
+<p>
+  The graduate Net Impact chapter at Stuart School of Business strives to educate Illinois Institute of Technology students about sustainable careers and enterprises as well as provide opportunities and connections in the industry. Net Impact is a new generation of leaders who use our careers to tackle the world’s toughest problems. We put our business skills to work for good throughout every sector. By doing so, we show the world that it’s possible to make a net impact that benefits not just the bottom line, but people and planet too.
+</p>
+
+{% for post in site.posts %}
+{% if post.featured == true %}
 <div class="post-header-home">
   <h1 class="post-title-home">
     <a href="{{ post.url | prepend:site.baseurl }}">{{ post.title }}</a>
@@ -16,9 +21,15 @@ layout: page
   {{ post.excerpt }}
   <p class="text-right"><a href="{{ post.url | prepend:site.baseurl }}">Continue Reading &rarr;</a></p>
 </div>
+{% endif %}
 {% endfor %}
 
 <div id="about">
+  <h2>Why Net Impact?</h2>
+  <p>
+    All together, we spend about half our waking hours at work. Collectively, that’s more than 250 billion hours every year. In what’s left of our spare time, many of us volunteer - racking up just 3 billion hours annually. But what if we got to spend more of our working hours creating social and environmental good, instead of squeezing our impact into nights and weekends? We believe this shift is necessary to achieve a more sustainable world: and we’re here to demonstrate that people can make doing good an integral part of just about any job or career.
+  </p>
+
   <h2>Our Mission</h2>
   <p>
     The mission of IIT Net Impact is to improve the world by growing and strengthening a network of leaders who use the power of business to make a positive net social, environmental, and economic impact.
