@@ -2,7 +2,7 @@
 title: Net Impact General Body Meeting with UFarm IIT
 permalink: events/october-2014-general-body-meeting-with-ufarm
 published: true
-featured: true
+featured: false
 ---
 
 Kick off the first Net Impact General Body Meeting for this semester AND learn about IIT's role in urban farming through UFarm IIT! We will also be discussing semester events. Lunch will be provided.

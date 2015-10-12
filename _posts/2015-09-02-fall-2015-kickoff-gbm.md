@@ -2,6 +2,7 @@
 title: Net Impact kicks off Fall 2015 with General Body Meeting
 permalink: events/fall-2015-gbm
 published: true
+featured: true
 ---
 
 Net Impact members new and old came together on September 2nd at IIT Tower to kick off the Fall 2015 semester. After some introductions, the executive board introduced Net Impact and some potential projects the organization could work on.
